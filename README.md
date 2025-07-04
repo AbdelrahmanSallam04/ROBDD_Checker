@@ -118,6 +118,7 @@ If not: “❌ Expressions are not equivalent”
 ## 📷 Screenshots
 
 - ✅ Successful BDD/ROBDD display
+
   ![image](https://github.com/user-attachments/assets/e3cb3c18-848d-4d31-907c-35c3a7614612)
   
 - ❌ Error messages for invalid expressions
@@ -125,6 +126,7 @@ If not: “❌ Expressions are not equivalent”
   ![image](https://github.com/user-attachments/assets/f6e7ebf9-d0c1-4498-8196-679c8fef2bcf)
 
 - 🧩 Interactive ROBDD plot with zoom & save
+
   ![image](https://github.com/user-attachments/assets/ac57ede9-6043-4557-b2b5-b0e8e2419867)
 
 ---
